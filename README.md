@@ -27,8 +27,8 @@ This is a simple backend-only multiplayer chess server built using **Node.js**, 
 
 1. **Clone the repo**
    ```bash
-   git clone https://github.com/yourusername/chess-websocket-backend.git
-   cd chess-websocket-backend
+   https://github.com/Aiden31x/chess-basic-backend-.git
+
 2. **Install dependencies**
    ```bash
    npm install
